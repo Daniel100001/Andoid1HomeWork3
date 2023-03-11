@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andoid1HomeWork3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="InputType">Input text</string>
+    <string name="login">Login</string>
+    <string name="text_here">Text here</string>
+</resources>
